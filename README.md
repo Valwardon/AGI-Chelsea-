@@ -124,8 +124,9 @@ We are also interested in whether a developmental architecture can run efficient
 
 ## Follow the work
 
-- **Implementation:** [Valwardon/Chelsea](https://github.com/Valwardon/Chelsea)
-- **Project hub:** this repository
+- email brutemarketing@gmail.com
+
+- to use Chelsea in your project please contact above email.
 
 This repository will be used for the project overview, research rationale, milestones, experiment summaries, design principles and public updates. The implementation repository remains the place for source code, tests and engineering changes.
 
