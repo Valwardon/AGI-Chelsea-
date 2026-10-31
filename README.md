@@ -12,6 +12,10 @@ The implementation lives in the [Chelsea code repository](https://github.com/Val
 
 ---
 
+## Engineering roadmap
+
+The comprehensive engineering backlog, current readiness assessment, historical lessons, acceptance criteria and staged AGI-readiness gates are maintained in the [Master AGI Readiness TODO](TODO.md). It is intended to be an evidence-driven working document, not a claim that the listed capabilities are already complete.
+
 ## The central idea
 
 Today's most visible AI systems demonstrate extraordinary capabilities, much of them acquired through large-scale pretraining on human-created data. That approach has produced remarkable results. But capability acquired during training is not the same question as how an intelligence can independently acquire new knowledge and develop new capabilities throughout its lifetime.
